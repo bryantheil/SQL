@@ -16,4 +16,4 @@ We created different scripts containing the DDL for building the DB. Then, by ap
 - *date_diff_reg_watch* – (int) the difference in days between the registration date and the date of first-time engagement
 - *date_diff_watch_purch* – (int) the difference in days between the date of first-time engagement and the date of first-time purchase (NULL if they have no purchases)
 
-! [Venn Diagram] (https://365datascience.com/resources/projects/29cvt5mq3cb-venndiagram.png)
+(https://365datascience.com/resources/projects/29cvt5mq3cb-venndiagram.png)
