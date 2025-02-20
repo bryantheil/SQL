@@ -17,3 +17,7 @@ We created different scripts containing the DDL for building the DB. Then, by ap
 - *date_diff_watch_purch* – (int) the difference in days between the date of first-time engagement and the date of first-time purchase (NULL if they have no purchases)
 
 (https://365datascience.com/resources/projects/29cvt5mq3cb-venndiagram.png)
+
+
+
+First, consider the conversion rate and compare this metric to industry benchmarks or historical data. Second, examine the duration between the registration date and date of first-time engagement. A short duration—watching on the same or the next day—could indicate that the registration process and initial platform experience are user-friendly. At the same time, a longer duration may suggest that users are hesitant or facing challenges. Third, regarding the time it takes students to convert to paid subscriptions after their first lecture, a shorter span would suggest compelling content or effective up-sell strategies. A longer duration might indicate that students have been waiting for the product to be offered at an exclusive price.
